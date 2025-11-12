@@ -1,4 +1,5 @@
-# F-server is a command-linr utility built in C designed for fundamental local file and directory management. it performs common task such as listing directory contents, retrieving file metadata, and is intendend to serve as  the **core logic foundation for a future network-accessible file srever.
+# Overview
+F-server is a command-linr utility built in C designed for fundamental local file and directory management. it performs common task such as listing directory contents, retrieving file metadata, and is intendend to serve as  the **core logic foundation for a future network-accessible file srever.
 
 ## prerequisites
 
